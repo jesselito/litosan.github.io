@@ -1,0 +1,23 @@
+.readmore{
+    background-color: #05668d;
+    color: white;
+    width: 70px;
+    height: 8px;
+    padding: 8px 8px;
+    border-radius: 20px;
+    text-align: center;
+    line-height: 8px;
+    border: 2px solid black;
+    font-size: 14px;
+    margin: 2px;
+    transition: background-color 0.75s, box-shadow 0.75s, transform 0.75s;
+}
+
+.pagetitle{
+    margin-bottom: 1%;
+}
+
+.author{
+    margin: 1.5% 20%;
+    font-size: 14px;
+}

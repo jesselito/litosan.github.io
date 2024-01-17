@@ -1,0 +1,25 @@
+/* 
+
+Flexbox sample for Books Grid
+
+#container{
+    display: flex;
+    width: 1200px;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.book{
+    margin: 0 auto;
+    width: 300px;
+} */
+
+#containter{
+    margin: 20% 20%;
+}
+
+#container > div{
+    display: inline-block;
+    margin: 20px;
+}

@@ -1,0 +1,5 @@
+
+
+
+Instance Name: LitosanEC2
+Public IPv4: 52.221.252.87
